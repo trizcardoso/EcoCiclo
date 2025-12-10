@@ -1,16 +1,16 @@
 # EcoCiclo
 
-♻️ Eco-Ciclo
+- ♻️ Eco-Ciclo
 
 Eco-Ciclo é um projeto desenvolvido com o objetivo de aplicar tecnologia, automação e análise de dados para promover a eficiência no uso de recursos naturais e apoiar iniciativas de sustentabilidade dentro dos processos industriais e urbanos.
 
 O projeto busca monitorar, registrar e analisar indicadores ambientais, permitindo tomadas de decisão mais assertivas quanto ao consumo de água, energia, descarte de resíduos ou outros elementos ecológicos relevantes.
 
-🚀 Objetivo
+- 🚀 Objetivo
 
 O projeto visa integrar tecnologias digitais para auxiliar empresas, instituições públicas e usuários a adotarem práticas sustentáveis por meio de monitoramento em tempo real e relatórios automáticos.
 
-🔧 Tecnologias utilizadas
+- 🔧 Tecnologias utilizadas
 
 Arduino / ESP / IoT (dependendo do projeto)
 
@@ -24,7 +24,7 @@ Machine Learning (opcional)
 
 Automação e integração industrial
 
-🧠 Contribuições para a Indústria 4.0
+- 🧠 Contribuições para a Indústria 4.0
 
 A iniciativa conversa diretamente com os pilares da Indústria 4.0, principalmente:
 
@@ -44,7 +44,7 @@ Integração direta entre sensores, máquinas e tomada de decisão digital.
 
 Geração de insights para otimização operacional, redução de falhas e melhoria contínua.
 
-🌱 Contribuições para a Sustentabilidade
+- 🌱 Contribuições para a Sustentabilidade
 
 Monitoramento inteligente de recursos naturais
 
